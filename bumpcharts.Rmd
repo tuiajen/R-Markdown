@@ -3,6 +3,7 @@ title: "Bump Chart Example"
 author: "J. Tuia"
 date: "October 14, 2018"
 output: html_document
+keep_md: true
 ---
 
 

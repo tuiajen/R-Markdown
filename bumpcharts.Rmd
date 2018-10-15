@@ -16,7 +16,7 @@ library(grid)
 
 #Get Colorbrewer info and the appropriate colors
 par(mar=c(1,5,1,1))
-#display.brewer.all(colorblindFriendly = TRUE)
+display.brewer.all(colorblindFriendly = TRUE)
 custom_palette <- c(
   brewer.pal(n = 11, name = 'RdYlBu')[11:8], # These are the blue colors
   "lightgoldenrod1", # This is the mustard color
